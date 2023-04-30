@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--29 April 2023-->
+<!--10120212-->
+<!--Daffa Albari-->
+<!--IF-6-->
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_background"/>
+    <foreground android:drawable="@mipmap/ic_launcher_foreground"/>
+</adaptive-icon>

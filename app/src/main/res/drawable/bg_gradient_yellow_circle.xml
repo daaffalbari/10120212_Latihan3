@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--29 April 2023-->
+<!--10120212-->
+<!--Daffa Albari-->
+<!--IF-6-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="270"
+                android:endColor="@color/colorSunflower"
+                android:startColor="@color/colorSunYellow"
+                android:type="linear" />
+            <corners android:radius="@dimen/dimen360" />
+        </shape>
+    </item>
+</layer-list>
